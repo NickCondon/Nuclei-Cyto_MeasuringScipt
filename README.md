@@ -13,7 +13,7 @@ This script is written in the ImageJ1 Macro Language.
 This script takes 2D images of Zebrafish and finds the nuclei for measuring. <br><br> 
 It then converts  all Green labelling (ch1) into 32-bit, NaN background, before measuring the nuclei mean intensity. <br><br> 
 A region around the nuclei is measured by creating a banding selection of a user defined distance. <br><br> 
-Output files are saved into a directory called results
+Output files are saved into a results directory.
 
 ## Running the script
 
